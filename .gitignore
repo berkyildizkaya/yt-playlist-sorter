@@ -1,0 +1,16 @@
+# YouTube Credentials & Tokens (CRITICAL - DO NOT COMMIT)
+credentials.json
+token.json
+
+# Logs
+*.log
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE Settings
+.vscode/
+.idea/
