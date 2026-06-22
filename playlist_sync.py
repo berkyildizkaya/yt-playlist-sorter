@@ -195,7 +195,7 @@ def get_or_create_dest_playlist(youtube, playlist_name):
                     "description": "Otomatik olarak doğru bölüm sırasıyla eşitlenmiş oynatma listesi."
                 },
                 "status": {
-                    "privacyStatus": "private"  # Private by default
+                    "privacyStatus": "public"  # Public by default
                 }
             }
         ).execute()
